@@ -1,8 +1,8 @@
-#Cours de bioéthique#
+# Cours de bioéthique #
 
-##Ecole de Lyon##
+## Ecole de Lyon ##
 
-##session 2019-2020##
+## session 2019-2020 ##
 
 Le cours est en cours de réécriture.
 
