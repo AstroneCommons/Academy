@@ -11,7 +11,6 @@ Il contient plusieurs format text
   - .docx pour word
 
 Le cours est contenu dans le dossier Cours.
-
 Les annales sont contenues dans le dossier Annales
 
 Pour télécharger l'ensemble des documents, vous devez cliquez sur le bouton "clone or download"
