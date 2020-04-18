@@ -6,9 +6,15 @@
 
 Le cours est en cours de réécriture.
 
-Il contient plusieurs versions 
+Il contient plusieurs format text 
   - .odt pour libreoffice
   - .docx pour word
+
+Le cours est contenu dans le dossier Cours.
+Les annales sont contenues dans le dossier Annales
+
+Pour télécharger l'ensemble des documents, vous devez cliquez sur le bouton "clone or download"
+Et ensuite selectionner "download zip"
 
 Vous pouvez contribuer à son amélioration en effectuant une pull-request.
 
