@@ -17,7 +17,9 @@ Les annales sont contenues dans le dossier Annales
 Pour télécharger l'ensemble des documents, vous devez cliquez sur le bouton "clone or download"
 Et ensuite selectionner "download zip"
 
-Vous pouvez contribuer à son amélioration en effectuant une pull-request.
+**Aucune information ne sera donnée à titre individuel**
+
+Vous pouvez contribuer à son amélioration en effectuant une pull-request ou en écrivant une issue.
 
 Pour effectuer une pull-request:
 - Avoir un compte Github
