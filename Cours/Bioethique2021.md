@@ -1,25 +1,21 @@
 # Bioéthique (2020-2021)
 
-## Sommaire
-
-I - De la différence entre droit, morale, et éthique:
-
-## De la différence entre droit, morale, et éthique
+## Droit, morale, et éthique
 
 ### Différences entre morale et éthique
 
-Le mot Ethique présente des racines étymologiques grecques :
+Le mot **éthique** présente des racines étymologiques grecques :
 
 - Ethikos : la morale
 - Ethos : les mœurs
 
-Le mot Morale présente des racines latines :
+Le mot **morale** présente des racines latines :
 
 - moralis : les moeurs
 
 L'étymologie des deux termes est similaire. Dans l’usage, il peut nous arriver de les confondre.
 
-On peut néanmoins avoir une approche différente, et distinguer morale et éthique:
+On peut néanmoins distinguer morale et éthique:
 
 > Je propose donc de distinguer entre éthique et morale, de réserver le terme d'éthique pour tout le questionnement qui précède l'introduction de l'idée de loi morale et de désigner par morale tout ce qui, dans l'ordre du bien ou du mal, se rapporte à des lois, des normes, des impératifs. \
 > <cite>Paul Ricoeur</cite>
@@ -33,16 +29,16 @@ De ce point de vue, la morale découle de l’éthique.
 Même si certains philosophes utilitaristes, comme Bentham, confondent droit et morale, concluant qu’il est possible que l’éducation morale se fasse par la lecture des codes juridiques. \
 Les sociétés modernes sont généralement construite sur une séparation entre la morale et le droit.
 
-Cette séparation intervient au XVIIème siècle, à la suite des guerres de religion, Locke et Hobbes nourrissent une réflexion sur la séparation entre la morale et le droit, séparation qui servirait de socle à l'établissement d'un etat de paix.
+Cette séparation intervient au XVIIème siècle, à la suite des guerres de religion, Locke et Hobbes nourrissent alors une réflexion sur la séparation entre la morale et le droit, séparation qui servira de socle à l'établissement d'un etat de paix.
 
 Cependant, la distance qui est mise entre le droit et la morale varie d’un auteur à l’autre. Certains ne reconnaisse aucune filiation entre règles de droits et règles morales, d’autres au contraire n’envisage la règle de droit que comme une émanation de la règle morale.
 
 ### Différences entre éthique et droit
 
-L’éthique n’est pas le droit. \
+L’éthique n’est pas le droit car:
 
-- Au motif d’une part que, le travail législatif ne peut prévoir toutes les situations, et chaque situation dans son détail.
-- Au motif d’autre part que, les démocraties modernes estime qu’un certain nombre de décisions sont mieux prises par des professionnels dans certains secteurs et qu’il convient de les laisser apprécier et trancher les situations en leur donnant quelque latitude, encadrée de façon assez large.
+- Le travail législatif ne peut prévoir toutes les situations, et chaque situation dans son détail.
+- Les démocraties modernes estime qu’un certain nombre de décisions sont mieux prises par des professionnels dans certains secteurs et qu’il convient de les laisser apprécier et trancher les situations en leur donnant quelque latitude, encadrée de façon assez large.
 
 C’est ainsi que, pour parler comme Bentham, le droit se fait plus adjectif que substantif. entendez qu’il tend moins à parler directement des choses, lesquelles ne peuvent pas être prises en compte dans leur détail ou ne le seraient que gauchement, qu’à habiliter certaines personnes, en raison de la compétence qu’elles sont supposées avoir dans leur profession ou dans leur fonction, à prendre les décisions concernant ces choses.Le droit est plus efficace en habilitant ces personnes à prendre des responsabilités qu’en tentant d’entrer dans le détail indéfini des situations ; tâche qui ne ferait que témoigner de son manque de pertinence. \
 Il laisse alors la profession s’organiser jusqu’à un certain point, recruter les nouveaux professionnels, désigner ceux qui occuperont les postes de responsabilité (certains d’entre eux, du moins), prendre en charge un certain nombre d’exactions dont on lui laisse le soin d’estimer voire de sanctionner la gravité, de conseiller du moins le pouvoir exécutif ou judiciaire sur des aspects où il lui est difficile d’être compétent.
@@ -51,7 +47,7 @@ Il laisse alors la profession s’organiser jusqu’à un certain point, recrute
 
 ### Définition
 
-La bioéthique regroupe l’ensemble des questionnements éthiques relatif aux pratiques médicales, aux choix des individus et des sociétés en matière de santé et aux recherches biomédicales. Elle privilégie un approche multidisciplinaire.
+La **bioéthique** regroupe l’ensemble des questionnements éthiques relatif aux pratiques médicales, aux choix des individus et des sociétés en matière de santé et aux recherches biomédicales. Elle privilégie un approche _multidisciplinaire_.
 
 Le terme possède un sens beaucoup plus restreint aujourd’hui que celui que lui avait donné son auteur Van Resselaer Potter dans son ouvrage _bioethics : a bridge to the future_ écrit dans les années 1970. Dans ce livre, il définit la bioéthique comme une éthique de la vie.  Selon Van Resselaer Potter, il est vain, voire absurde, de prétendre nourrir un souci éthique au regard de la santé des individus et des choix qui sont opérés à cet égard si on ne réinscrit pas ce souci dans un questionnement plus ample sur la survie de la population humaine et la qualité de son environnement.
 
@@ -76,7 +72,7 @@ Au delà de l’aspect anecdotique, il est intéressant de voir que les deux app
 - D’un coté, l’auto-expérimentation et le souci de ne pas mettre en danger autrui.
 - De l’autre, une ignorance totale des règles morales.
 
-L’auto-expérimentation :
+**L’auto-expérimentation :**
 
 Les exemples d’auto-expérimentation au cours de l’histoire sont nombreux. En plus de ceux cités précédemment, on peut y ajouter :
 
@@ -99,9 +95,10 @@ Hypocrate est un médecin grecque  (460 av JC), comptemporain de Platon et d’
 
 Il est souvent utilisé comme un modèle de déontologie. Et son enseignement perdure encore aujourd’hui à travers le serment d’hypocrate.
 A noter que le texte actuelle n’est pas le texte originale, il a été remanié à
-plusieurs reprise, entre autre pour mieux prendre en considération les enjeux modernes.
+plusieurs reprises, entre autre pour mieux prendre en considération les enjeux modernes.
 
-A retenir que les enjeux éthiques en santé ont été formalisés très tôt dans l’histoire. Et que les réflexions élaborées durant l’antiquité influencent encore grandement les réflexions biomédicales d’aujourd’hui.
+A retenir que les enjeux éthiques en santé ont été formalisé très tôt dans l’histoire. Et que les réflexions élaborées durant l’antiquité influencent encore grandement les réflexions biomédicales d’aujourd’hui.
+Le serment d'Hypocrate défait la thèse selon laquelle la déontologie médicale serait un produit de nos sociétés modernes, et qu'avant cela l'éthique médicale avait une importance secondaire.
 
 _Galien_
 
@@ -121,13 +118,13 @@ Ils rejettent le cardio-centrisme aristotélicien dans lequel le cœur est à l
 
 L’école d’Alexandrie attribut les fonctions cognitives aux systèmes nerveux centrales, et le rôle de pompe sanguine est attribué au cœur.
 
-Un témoignage de l’époque nous éclaire sur les méthodes utilisés par les deux médecins pour élaborer leur théorie
+Un témoignage de l’époque nous éclaire sur les méthodes utilisées par les deux médecins pour élaborer leur théorie.
 
 > On ne peut trop louer Herophile et Erasistrace qui ont disséqué tout vif les criminels qu’ils avaient obtenu des rois, puisque par là ces médecins sont venus a bout de considérer sur le vivant les parties que la nature tient cacher. Peut on guérir un organe malade quand on ignore ce qu’il est. Il n’y a donc point de cruauté à chercher dans le supplice d’un petit nombre de criminel des connaissances qui peuvent servir dans tous les ages à la conservation d’une infinité d’innocent. »
 
 Dès l’antiquité, on retrouve donc l’idée qu’une connaissance plus profonde du fonctionnement du corps humain requiert l’expérimentation humaine. \
 La dissection de cadavre est tabou à cette époque, et l’étude de l’anatomie se fait d’ordinaire par la dissection des animaux, cela n’empêche pas certains médecins grecque d’enfreindre les règles, et d’utiliser des prisonniers comme cobayes. \
-La moralité d’une action semble ici jugé au vu des résultats obtenus.
+A noter que la moralité des décisions prises par les deux médecins semble, ici, jugé au vu des résultats obtenus.
 
 _Avicenne_
 
@@ -137,7 +134,7 @@ Avicenne, un médecin perse du Xème siècle, voit l’expérimentation humaine 
 
 La nécessité de l’expérimentation humaine resurgit une fois encore. La connaissance approfondie de la physiologie ne serait possible sans une étude sur le corps humain.
 
-Aujourd’hui, l’épistémologie moderne reconnaît que les modèles animaux ne remplacent pas l’expérimentation chez l’Homme. Nombreux sont les exemples de traitement médicaux qui fonctionne parfaitement chez l’animal mais qui n’ont aucun effets chez l’Homme.
+Aujourd’hui, l’épistémologie moderne reconnaît que les modèles animaux ne remplacent pas l’expérimentation chez l’Homme. Nombreux sont les exemples de traitement médicaux qui fonctionne parfaitement chez l’animal mais qui n’ont aucun effets chez l’Homme. \
 Cette distinction biologique et ontologique entre l’Homme et l’animal est à la base de nombreux dilemmes éthiques.
 
 _Vésale  et Ambroise Paré_
@@ -156,8 +153,7 @@ Pour s’entraîner avant d’intervenir sur le roi, le chirurgien accompagné d
 
 > On cognat avec force le tronçon de lance contre les dites têtes afin d’essayer de reconstituer la royale blessure ». Pendant ce temps, le roi agonise puis meurt.
 
-Deux remarques peuvent être faites. D’une part, l’on constate que l’expertise technique ne protège pas des comportements immoraux.
-D’autres parts, les personnes « vulnérables » font souvent le fait de ces pratiques déviantes.
+A travers cette annecdocte, on constate que l’expertise technique ne protège pas des comportements immoraux.
 
 _Anton Stark_
 
@@ -182,6 +178,10 @@ Ces substances étaient :
 
 Seul le dernier groupe a rapidement guéri du scorbut.
 
+Les essais cliniques contrôlés ont pour avantage de fournir des résultats avec un niveau de crédence plus elevé que ceux obtenus par des essais non controlés.
+Les essais cliniques controlés suscitent d'autres dilemmes éthiques, qui concerne en particulier le sort des patients traités avec un placebo ou un traitement moins efficace.
+En l'absence de traitement efficace sur une pathologie, l'utilisation de placebo dans un essai controlé est éthiquement justifiable.
+
 _La variolisation_
 
 La variolisation consiste à inoculer une forme qu'on espère peu virulente de la variole en mettant en contact la personne à immuniser avec le contenu de la substance suppurant des vésicules d'un malade. Les résultats sur le système immunitaire restent cependant aléatoires et risqués.
@@ -190,18 +190,19 @@ La variolisation consiste à inoculer une forme qu'on espère peu virulente de l
 
 Au XVIII siècle, le roi George I effectue des expérimentations de variolisation sur des condamnés à mort auxquels on promettait la grâce si il survivait.
 
-On peut à nouveau constater l’utilisation de personnes vulnérables comme sujet d’expériences (prisonnier).\
-Le développement de nouvelle technique médicale (la variolisation) apparaît à la fois comme une source de progrès mais également comme une cause de transgression éthique.
+On peut à nouveau constater l’utilisation de personnes vulnérables comme sujets d’expériences (prisonnier).
+
+Le développement de nouvelles techniques médicales (la variolisation) apparaît à la fois comme une source de progrès mais également comme une cause de transgression éthique.
 
 _Thomas Percival_
 
-Thomas Percival (XIX) écrit la première charte de médecine expérimental. Il écrit :
+Au XIXème siècle, Thomas Percival écrit la première charte de médecine expérimental.
 
 > Avant de faire une expérimentation, il faut un échec des méthodes habituelles, ainsi qu’une consultation des ces paires.
 
 Il est le premier à évoquer l’échec des thérapeutique conventionnelles comme préalable obligatoire à l’expérimentation sur l’homme.\
 
-Sa charte apparaît comme texte de référence dans le code de Nuremberg.
+Sa charte apparaîtra comme texte de référence dans le code de Nuremberg.
 
 _William Beaumont_
 
