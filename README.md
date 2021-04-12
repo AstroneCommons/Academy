@@ -1,14 +1,12 @@
-# Cours de bioéthique #
+# Cours de bioéthique
 
-## Ecole de Lyon ##
+## Ecole de Lyon
 
-## session 2019-2020 ##
+## session 2020-2021
 
 Le cours est en cours de réécriture.
 
-Il contient plusieurs format text 
-  - .odt pour libreoffice
-  - .docx pour word
+Le cours est disponible au format pdf et markdown.
 
 Le cours est contenu dans le dossier Cours.
 
@@ -22,6 +20,7 @@ Et ensuite selectionner "download zip"
 Vous pouvez contribuer à son amélioration en effectuant une pull-request ou en écrivant une issue.
 
 Pour effectuer une pull-request:
+
 - Avoir un compte Github
 - Cloner ou forker le repository
 - Effectuer les modifications sur le repo préalablement cloné
@@ -32,5 +31,4 @@ ces modifications doivent validés par le propriétaire du repository.
 
 Si vous voulez en apprendre plus sur Git et Github, vous pouvez suivre cette vidéo.
 
-https://www.youtube.com/watch?v=V6Zo68uQPqE
-
+<https://www.youtube.com/watch?v=V6Zo68uQPqE>
