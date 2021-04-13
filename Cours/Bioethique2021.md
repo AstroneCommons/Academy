@@ -356,7 +356,7 @@ En 1935, il écrit :
 
 Etats Unis :
 
-Aux États-Unis, pendant la première guerre mondiale, on effectue des tests de QI sur les conscrits américains. On démontre que le QI des WASP est supérieur à celui des américains d’autres origines. On sait aujourd’hui que le QI est fortement corrélé aux conditions socio-économique, ce qui explique les résultats biaisés de cette étude.\
+Aux États-Unis, pendant la première guerre mondiale, on effectue des tests de QI sur les conscrits américains. On démontre que le QI des WASP est supérieur à celui des américains d’autres origines. On sait aujourd’hui que le QI est fortement corrélé à l'environement socio-économique, ce qui explique les résultats biaisés de cette étude.\
 On utilise le résultat de cet étude pour privilégier l’immigration anglo-saxonne.
 
 Interdiction du mariage au femme « eugéniquement inapte » dans l’Indiana.
@@ -391,39 +391,37 @@ Les expériences en hautes altitudes feront 80 morts dans le camp de Dachau.
 
 Les peines :
 
-Karl Brandt, éxécuté
-Karl Gebhardt, exécuté
-Fritz Fischer,  prison à vie
-Siegfried Handloser, prison à vie
-Joachim Mrugowsky, exécuté
-Gerhard Rose, prison à vie
-Oskar Schröder, prison à vie
-Hermann Becker-Freyseng, 20 ans de prison
-Hans-Wolfgang Romberg, acquitté
-Siegfried Ruff, acquitté
-Konrad Schäfer, acquitté
-Kurt Blome, acquitté
-Herta Oberheuser, 20 ans de prison
-Adolf Pokorny, acquitté
-Karl Genzken, prison à vie
-Waldemar Hoven, exécuté
-Wilhelm Beiglböck, 15 ans de prison
-Helmut Poppendick, 10 ans de prison
-Georg August Weltz, acquitté
-Viktor Brack, exécuté
-Rudolf Brandt, exécuté
-Wolfram Sievers, exécuté
+Karl Brandt, éxécuté \
+Karl Gebhardt, exécuté \
+Fritz Fischer,  prison à vie \
+Siegfried Handloser, prison à vie \
+Joachim Mrugowsky, exécuté \
+Gerhard Rose, prison à vie \
+Oskar Schröder, prison à vie \
+Hermann Becker-Freyseng, 20 ans de prison \
+Hans-Wolfgang Romberg, acquitté \
+Siegfried Ruff, acquitté \
+Konrad Schäfer, acquitté \
+Kurt Blome, acquitté \
+Herta Oberheuser, 20 ans de prison \
+Adolf Pokorny, acquitté \
+Karl Genzken, prison à vie \
+Waldemar Hoven, exécuté \
+Wilhelm Beiglböck, 15 ans de prison \
+Helmut Poppendick, 10 ans de prison \
+Georg August Weltz, acquitté \
+Viktor Brack, exécuté \
+Rudolf Brandt, exécuté \
+Wolfram Sievers, exécuté \
 
 **Arguments de la défense**
 
 1. Les médecins allemands ont réalisés des expériences similaires à celles réalisés par les américains.
    Les américains préciseront que dans leurs expériences, ils utilisaient des personnes volontaires. De plus leur démarche n’ a entraîné aucun décès.
 
-2. Contenu des conditions socio-politique allemande, la responsabilité des expériences réalisé dans les camps est celle de l’état totalitaire nazi, et non celles des médecins.
-
-Karl Brauwn (avocat): « Lorsque la personnalité est dissoute au sein du corps collectif, toute demande qui lui est soumise doit être dissoute au sein du concept du système collectif. Les besoins de la société sont maintenant des besoins individuels, et l’être humain, ce complexe individuel sert uniquement a l’intérêt de la société. Et pendant la guerre, l’état totalitaire prend entièrement à son compte la responsabilité du médecin. Lorsque l’expérience finit fatalement, le médecin n’est plus qu’un instrument, les sentiments personnels et professionnels, comme les obligations éthiques doivent céder le pas à la nature totalitaire de la guerre. »
-
-Fritz Pisher (Test des sulfamides sur des femmes polonaises) : « En 42, l’individu ne pouvait obéir à sa loi intérieur. Il était soumis à un ordre plus élevé, à une communauté plus élevée. En tant qu’individu dans un état libre, je n’aurai pas fait ce que j’ai fait. Mais en tant de guerre dans un état totalitaire, il y a des situations ou l’individu doit se soumettre comme un aviateur qui doit lancer une bombe. Je désire simplement souligner que ce qui est arrivé n’a pas été provoqué par la cruauté, mais uniquement pour nos blessés dans le cadre de l’état. »
+2. Contenu des conditions socio-politique allemande, la responsabilité des expériences réalisé dans les camps est celle de l’état totalitaire nazi, et non celles des médecins.\
+   Karl Brauwn (avocat): « Lorsque la personnalité est dissoute au sein du corps collectif, toute demande qui lui est soumise doit être dissoute au sein du concept du système collectif. Les besoins de la société sont maintenant des besoins individuels, et l’être humain, ce complexe individuel sert uniquement a l’intérêt de la société. Et pendant la guerre, l’état totalitaire prend entièrement à son compte la responsabilité du médecin. Lorsque l’expérience finit fatalement, le médecin n’est plus qu’un instrument, les sentiments personnels et professionnels, comme les obligations éthiques doivent céder le pas à la nature totalitaire de la guerre. » \
+   Fritz Pisher (Test des sulfamides sur des femmes polonaises) : « En 42, l’individu ne pouvait obéir à sa loi intérieur. Il était soumis à un ordre plus élevé, à une communauté plus élevée. En tant qu’individu dans un état libre, je n’aurai pas fait ce que j’ai fait. Mais en tant de guerre dans un état totalitaire, il y a des situations ou l’individu doit se soumettre comme un aviateur qui doit lancer une bombe. Je désire simplement souligner que ce qui est arrivé n’a pas été provoqué par la cruauté, mais uniquement pour nos blessés dans le cadre de l’état. »
 
 3. Les expériences ont été réalisés par des médecins désintéressés uniquement motivés par le souci d’apporter des connaissances scientifiques susceptibles d’apporter des bienfaits à un grand nombre d’individu.\
    Gerard Grauss (avocat) : « Pour ceux qui ne connaissent pas le béribéri, il est difficile d’imaginer le fardeau mental pour un médecin qui pendant des semaines doit observer et soigner ces sujets enregistrés tous les détails et symptômes de la maladie. Strong était professeur à l’université d’havard et président de la société de médecine tropical. J’espère que l’accusation n’essayera pas de diminuer le travail de ce chercheur très respecté en disant qu’il y a des criminels partout. Je vous demande de croire que Strong est un homme de devoir et du plus grand sens éthique. »\
@@ -445,32 +443,31 @@ Fritz Pisher (Test des sulfamides sur des femmes polonaises) : « En 42, l’i
 
 **Arguments de l’accusation**
 
-1. Définition de la notion de malade :
+1. Définition de la notion de malade: \
    Au contraire de la défense qui ne considère pas les prisonniers comme des malades. L’accusation regroupe sous le terme de «malade» toute personne en contact professionnel avec un médecin, quel que soit son mode d'exercice (thérapeute ou chercheur, public ou privé, civil ou militaire...). La définition ne s’appuie donc pas sur la distinction entre sujet normal et sujet pathologique, ou sur la distinction entre sujet libre et sujet en détention pour définir le notion de « sujet malade ».
    Sur la base de cette définition , les règles de déontologie médicale s’appliquent aux prisonniers des camps comme à n’importe qu’elle autre malade. Et de fait, les médecins nazies n’ont pas respecté ces règles.
-   Pour rappel, les règles déontologiques médicales étaient parfaitement établis sous le régime nazis comme nous l’avons vu dans la partie précédente.
+   Pour rappel, les règles déontologiques médicales étaient parfaitement établies sous le régime nazi (comme nous l’avons vu dans la partie précédente).
 
-2. La responsabilité individuelle persiste
-   La dilution de la responsabilité individuelle pourrait tenir si aucun médecins allemands ne s’etait « opposés » ou avait refusés de participer aux expériences pratiqués dans les camps.
-   Si l’on reprend l’exemple des expériences sur les hautes altitudes
-   Dr Wolfgang Lutz avait refuser de participer à l’expérimentation, malgré la demande faite par Weltz. Il témoigne : « C’est déjà assez difficile sur un chien qui vous regarde qui semble avoir une sorte d’âme »
-   Quant à Erhard Milch, responsable de la Luftwaffe, il réclamera un arrêt des expériences : « Rapatriez-moi la chambre car ce type d’expérience n’est pas responsable ».
+2. La responsabilité individuelle persiste: \
+   Si aucun médecin allemand ne s’etait « opposés » ou avait refusés de participer aux expériences pratiqués dans les camps, L'argument de la dilution de la responsabilité individuelle aurait pu être pertinent. \
+   Cependatn, si l’on reprend l’exemple des expériences sur les hautes altitudes, on sait que le Dr Wolfgang Lutz avait refuser de participer à l’expérimentation, malgré la demande faite par Weltz. Il témoigne : « C’est déjà assez difficile sur un chien qui vous regarde qui semble avoir une sorte d’âme ». \
+   Quant à Erhard Milch, responsable de la Luftwaffe, il réclamera un arrêt des expériences : « Rapatriez-moi la chambre car ce type d’expérience n’est pas responsable ». \
    Si vous voulez aller plus loin sur ces notions de responsabilités individuelles et collectives, je vous conseille l’excellent livre de Hannah Ahrendt : Eichmann à Jérusalem : Rapport sur la banalité du mal.
 
-3. La primauté du consentement :
-   Le déroulement des débats confirment ce qui avait été évoqué avant le procès : l'absence de loi ou de règles précises du droit international sur les expérimentations humaines.
+3. La primauté du consentement : \
+   Le déroulement des débats confirment ce qui avait été évoqué avant le procès : l'absence de loi ou de règles précises du droit international sur les expérimentations humaines. \
    Pour le tribunal, il apparait alors que la bonne foi et l'intention de l'expérimentateur doivent laisser la place à un principe supérieur et décisif, le seul qui permette de se démarquer des expérimentations nazies : la nécessité d'un consentement volontaire d'un sujet libre et éclairé, en dehors de toute situation de contrainte.
 
 Le code de Nuremberg :
 
 Le « code de Nuremberg » est une liste de dix critères contenue dans le jugement du procès des médecins de Nuremberg (décembre 1946 - août 1947)1. Ces critères indiquent les conditions que doivent satisfaire les expérimentations pratiquées sur l'être humain pour être considérées comme « acceptables ». C'est sur ces critères que le tribunal condamna 16 accusés sur 23, convaincus d'avoir pratiqué ou participé à l'organisation d'expériences médicales illicites dans des conditions atroces, notamment sur les prisonniers des camps de concentration. La liste des critères de licéité des expérimentations médicales, tirée de la section « Expériences acceptables » du jugement, circula rapidement en anglais sous le nom de « Nuremberg Code ».
-Le code de Nuremberg n'est nullement le point de départ de la réflexion éthique et juridique sur l'expérimentation humaine : il récapitule des principes connus et acceptés très antérieurement au jugement, depuis au moins le début du xxe siècle, comme nous avons pu le voir dans notre récapitulatif historique des expérimentations humaines. Toutefois, il constitue bien le premier texte à prétention universelle (internationale) sur le sujet. Ainsi, le tribunal n'a pas jugé sur des règles qui auraient été inventées spécialement pour le procès (ce qui aurait été contraire à tous les principes du droit pénal), mais selon les règles coutumières communément acceptées « dans les nations civilisées ».
+Le code de Nuremberg n'est nullement le point de départ de la réflexion éthique et juridique sur l'expérimentation humaine : il **récapitule des principes connus et acceptés très antérieurement au jugement**, depuis au moins le début du xxe siècle, comme nous avons pu le voir dans notre historique des expérimentations humaines. Toutefois, il constitue bien le premier texte à prétention universelle (internationale) sur le sujet. Ainsi, le tribunal n'a pas jugé sur des règles qui auraient été inventées spécialement pour le procès (ce qui aurait été contraire à tous les principes du droit pénal), mais selon les règles coutumières communément acceptées « dans les nations civilisées ».
 
 Le code de Nuremberg s’est inspiré de plusieurs textes historiques:
 
 - Le serment d’Hippocrate
 - Le code William Beaumont
-- Les principes de Claude Bernard
+- Les principes de médecine expérimentale de Claude Bernard
 - Et les principes de l’AMA (American Medical Association) écrit par Thomas Percival.
 
 Pour ce qui concerne le serment d’Hippocrate, le texte sera modifié à la suite du procès , afin d’étendre la responsabilité morale du médecin aux personnes participant aux expériences médicales, en plus de celle qu’il portait traditionnellement envers ses patients.\
@@ -501,6 +498,8 @@ _Serment d’Hippocrate actuel_
 
 Le code de Nuremberg ne sera jamais appliqué tel quel en droit français, mais sera une source d’inspiration majeure de nos lois relatives à la bioéthique.
 
+Le code de Nuremberg a également inspiré un texte de référence en matière d'éthique en recherche biomédicale au niveau international, _la déclaration d'Helsinki_.
+
 _Code de Nuremberg_
 
 > 1. L’expérience doit être telle qu’elle produise des résultats avantageux pour le bien de la société, impossibles à obtenir par d’autres méthodes ou moyens d’étude, et pas aléatoires ou superflus par nature ;
@@ -517,7 +516,6 @@ _Code de Nuremberg_
 
 Pour résumé et conclure cette partie :
 
-- Toute réflexion éthique s’inscrit dans un processus historique et culturelle. Ce relativisme morale est réduit par le caractère universelle que l’on peut reconnaître à certaines valeurs.
 - Savoir-faire techniques et déontologiques sont distincts, ce qui implique que l’expertise technique n’induit pas l’expertise déontologique.
   Néanmoins les bonnes pratiques techniques favorisent les bonnes pratiques déontologiques, et vice et versa.
 - On retrouve dans la justification de pratiques immorales un certaine invariance au cours des différentes périodes et contextes :
@@ -526,6 +524,7 @@ Pour résumé et conclure cette partie :
   - L’invocation de l’ignorance des faits ou/et des règles
   - La non application de la règle à la situation particulière
   - La déshumanisation d’autrui.
+- Toute réflexion éthique s’inscrit dans un processus historique et culturelle. Ce relativisme morale est réduit par le caractère universelle que l’on peut reconnaître à certaines valeurs.
 
 ## Ethique et Progrés techniques
 
