@@ -452,7 +452,7 @@ Wolfram Sievers, exécuté \
    Si aucun médecin allemand ne s’etait « opposés » ou avait refusés de participer aux expériences pratiqués dans les camps, L'argument de la dilution de la responsabilité individuelle aurait pu être pertinent. \
    Cependatn, si l’on reprend l’exemple des expériences sur les hautes altitudes, on sait que le Dr Wolfgang Lutz avait refuser de participer à l’expérimentation, malgré la demande faite par Weltz. Il témoigne : « C’est déjà assez difficile sur un chien qui vous regarde qui semble avoir une sorte d’âme ». \
    Quant à Erhard Milch, responsable de la Luftwaffe, il réclamera un arrêt des expériences : « Rapatriez-moi la chambre car ce type d’expérience n’est pas responsable ». \
-   Si vous voulez aller plus loin sur ces notions de responsabilités individuelles et collectives, je vous conseille l’excellent livre de Hannah Ahrendt : Eichmann à Jérusalem : Rapport sur la banalité du mal.
+   Si vous voulez aller plus loin sur ces notions de responsabilités individuelles et collectives, je vous conseille l’excellent livre de Hannah Arendt : Eichmann à Jérusalem : Rapport sur la banalité du mal.
 
 3. La primauté du consentement : \
    Le déroulement des débats confirment ce qui avait été évoqué avant le procès : l'absence de loi ou de règles précises du droit international sur les expérimentations humaines. \
@@ -539,7 +539,7 @@ Cette alliance se réalise à la sortie de la seconde guerre mondial. Il s’agi
 - A l’intervention de l’état dans l’organisation de la recherche biomédicale ( fondation du CNRS en 1939)
 - A la création des CHU (Centre Hospitalier Universitaire) en 1958, sous l’impulsion de Robert Debré. Cette réforme consacre une double appartenance du corps médical à l’hôpital et à l’université, avec une triple mission: le soin, l’enseignement, et la recherche.
 
-Les progrès issue de la la biomédecine (alliance entre biologie et médecine) suscite des interrogations éthiques nouvelles. Ces interrogations interviennent tant dans leur élaboration que dans leur usage.
+Les progrès issue de la la biomédecine (alliance entre biologie et médecine) suscite des interrogations éthiques nouvelles. Ces interrogations interviennent tant dans leur élaboration, que dans leur usage.
 
 _Exemple des progrès de la biomédecine : L’implant cochléaire_
 
@@ -553,7 +553,7 @@ _Exemple des progrès de la biomédecine : L’implant cochléaire_
 > 2029 : Les implants cochléaires, utilisés à l’origine uniquement comme moyen de compensation de l’handicap auditif, sont maintenant un objet d’usage courant. Ces implants permettent une communication entre humains mais également avec les réseaux informatiques.
 > Des stimulations neuronales directement au contact de différentes régions cérébrales ont été mise au point. Certaines régions sont ainsi contournés au profit d’un traitement numérique.<cite>Ray Kurzweil</cite>
 
-En résumé, le développement de la bioéthique s’inscrit en réactions aux atrocités de la seconde guerre mondiale. A la sortie de la seconde guerre mondiale, cette discipline a été nourri par le développement de la biomédecine. Elle a été pour la première fois conceptualisé par Potter dans les années 70. Il faudra attendre 1994 pour que la france se dote sa première loi de bioéthique.
+En résumé, le développement de la bioéthique s’inscrit en réactions aux atrocités de la seconde guerre mondiale. A la sortie de la seconde guerre mondiale, cette discipline a été nourri par le développement de la biomédecine. Elle a été pour la première fois conceptualisé par Potter dans les années 70. Et il faudra attendre 1994 pour que la france se dote de sa première loi de bioéthique, Celle-ci est révisé tous les 5 ans.
 
 ## Conséquentialisme et déontologisme
 
@@ -562,19 +562,19 @@ On distingue deux grandes écoles de pensées en éthique :
 - Le déontologisme
 - Le conséquentialisme
 
-Dans une perspective déontologique, il y a des actes à faire et d’autres à ne pas faire et ce, indépendamment des conséquences envisageables ou prévisibles.
+Dans une perspective déontologique, il y a des actes à faire et d’autres à ne pas faire. Le caractère moral de l'acte est indépendamment des conséquences envisageables ou prévisibles dudit acte.
 
-Au contraire, dans une perspective conséquentialiste, le caractère morale d’un acte ne peut être déterminé qu en regard des conséquences de cet acte.
+Au contraire, dans une perspective conséquentialiste, le caractère morale d’un acte ne peut être déterminé qu en regard des conséquences dudit acte.
 
-A noter que le deontologisme ne doit pas être confondu avec la déontologie. Le premier est un courant de pensée philosophique, le deuxième est un terme juridique qui définit un ensemble de règles morales généralement associés à une profession, par exemple on parle de déontologie médicale.
+A noter que le deontologisme ne doit pas être confondu avec la déontologie. Le premier est un courant de pensée philosophique, le deuxième est un terme juridique qui définit un ensemble de règles morales généralement associés à une profession. Par exemple, on parle de déontologie médicale.
 
-Deuxième remarque, le déontologisme et le conséquentialisme ne sont pas les seules courant de pensées en éthiques, il en existe bien d’autres. On peut considérer que ce sont les deux principaux.
+Deuxième remarque, le déontologisme et le conséquentialisme ne sont pas les seules courant de pensées en éthique, il en existe bien d’autres. Mais on peut considérer que ce sont les deux principaux.
 
 ### Le déontologisme
 
 _Kant_
 
-Kant est né en 1724 en Prusse. Il est le quatrième d’une famille de 11 enfants. D’origine modeste, il se destinait à la théologie, mais ses centres d’intérêts vont rapidement dépasser cette discipline. Kant deviendra un grand connaisseur de la physique newtonienne, de la morale rousseauiste, du scepticisme de Hume, de la pyrotechnie…
+Kant est l'un des principaux penseurs du déontologisme, il est né en 1724 en Prusse. Il est le quatrième d’une famille de 11 enfants. D’origine modeste, il se destinait à la théologie, mais ses centres d’intérêts vont rapidement dépasser cette discipline. Kant deviendra un grand connaisseur de la physique newtonienne, de la morale rousseauiste, du scepticisme de Hume, de la pyrotechnie…
 
 Ces 4 œuvres majeures sont:
 
@@ -599,11 +599,11 @@ De cet ordonnancement du monde découle un hiérarchie naturelle des êtres.
 Cette morale aristocratique va dominer l’Europe jusqu’à la révolution française. On la retrouve dans la morale féodale, et elle est encore présente dans la morale bourgeoise post révolutionnaire.
 
 Dans la République, Platon décrit son régime politique idéal comme une aristocratie où le savoir et la raison dominent.
-Au sommet de l’état gouverne un philosophe-roi. L’armée est dirigée par des gardiens. Le peuple ne guident pas les affaires de la cité, il est situé au bas de la pyramide.
+Au sommet de l’état gouverne un philosophe-roi. L’armée est dirigée par des gardiens. Le peuple est situé au bas de la pyramide, et n'intervient pas dans les décisions qui concernent la cité.
 
-L’éthique aristocratique s’appuie sur cette hiérarchie naturelle des êtres. Elle stipule que la vertu se confond avec l’excellence naturelle. Et dans la tradition grecque, l’excellence c’est le juste milieu.
-L’œil idéal est celui qui n’est ni myope, ni hypermétrope.
-Le courage est le juste milieu entre la lâcheté et la témérité.
+L’éthique aristocratique s’appuie sur cette hiérarchie naturelle des êtres. Elle stipule que la vertu se confond avec l’excellence naturelle.
+Dans la tradition grecque, l’excellence rime avec juste milieu. Par exemple, l’œil idéal est celui qui n’est ni myope, ni hypermétrope.
+Et le courage est le juste milieu entre la lâcheté et la témérité.
 
 La vertu est lié aux talents naturelles. Elle est établit à la naissance.
 
@@ -622,21 +622,21 @@ On retrouve cette idée dans le christianisme avec la parabole des talents selon
 > Son maître lui répondit : « Serviteur méchant et paresseux ! Ainsi tu savais que je moissonne où je n’ai pas semé, et que j’amasse où je n’ai pas vanné ? Il te fallait donc remettre mon argent aux banquiers, et, à mon retour, j’aurais retiré ce qui est à moi avec un intérêt.
 > « Ôtez-lui donc le talent, et donnez-le à celui qui a les dix talents. Car on donnera à celui qui a, et il sera dans l’abondance, mais à celui qui n’a pas on ôtera même ce qu’il a. Et ce serviteur inutile, jetez-le dans les ténèbres du dehors, où il y aura des pleurs et des grincements de dents. »
 
-Les talents ne sont pas en soi vertueux. Ils peuvent indifféremment être mis au service du bien comme du mal (de ce point de vue, le procès de Nuremberg lui donne raison. Et on constate une grande influence de Kant sur la philosophie morale de Anna Arendt). Aux yeux de Kant, seul la bonne volonté compte. A notre époque, on parle de mérite.
+Les talents ne sont pas en soi vertueux. Ils peuvent indifféremment être mis au service du bien comme du mal (de ce point de vue, le procès de Nuremberg lui donne raison. Et on constate une grande influence de Kant sur la philosophie morale de Hannah Arendt). Aux yeux de Kant, seul la bonne volonté compte. Cette notion de bonne volonté, ce rapproche du concept plus comptemporain de mérite.
 
 Kant rejette l’éthique aristocratique, en inscrivant sa morale dans la tradition chrétienne. Il en apporte cependant une justification rationnelle, sans obligation d’en appeler à la foi.
 
-L’idée d’égalité découle naturellement de l’éthique kantienne. Pour Kant, que l’on soit Einstein ou un trisomique ne fait aucune différence, seul l’effort morale compte.
+L’idée d’égalité découle naturellement de l’éthique kantienne. Pour Kant, seul l’effort morale compte.
 
 Tocqueville, dans la démocratie en Amérique, s’interroge sur l’unicité de l’humanité. Kant y répond par l’affirmative. Et c’est de cette humanité unique que va naître l’idée démocratique.
 Un autre effet secondaire de cette éthique kantienne sera également la valorisation du travail. L’aristocrate ne travaille pas, il a des cerfs, des esclaves,… A partir du moment où la vertu n’est obtenue par sa naissance, mais par ce que l’on va faire de ses talents, le travail devient indispensable.
 
-Kant annonce donc la fin du cosmologico-éthique.
+La pensée kantienne est donc en rupture avec la tradition héllénistique.
 
 **La rupture théologico-éthique**
 
-Dans la morale religieuse, on invite les croyants à se conformer à un certains nombre de principe éthique (le décalogue par exemple), parce qu’il s’agit fondamentalement d’obéir à Dieu.
-Si nous agissons moralement pour faire plaisir à dieu et gagner son salut, ou que nous craignons le chatiment divin. Alors nous dit Kant, l’acte moral devient intéressé et perd de facto son caractère éthique.
+Dans la morale religieuse, on invite les croyants à se conformer à un certains nombre de principe éthique (le décalogue par exemple), parce qu’il s’agit fondamentalement d’obéir à la parole divine.
+Si nous agissons moralement pour faire plaisir à dieu et gagner son salut, ou que nous craignons le chatiment divin; alors nous dit Kant, l’acte moral devient intéressé et perd, de facto, son caractère éthique.
 
 Dans les leçons sur la théorie philosophique de la religion, Kant écrit :
 
@@ -644,7 +644,7 @@ Dans les leçons sur la théorie philosophique de la religion, Kant écrit :
 
 La scission entre foi et valeur morale correspond à la rupture théologico-éthique.
 
-Ainsi là où les grecques placé comme valeur suprême, l’ordre cosmologique. Et les chrétiens, Dieu. Kant y place l’homme.
+Pour les grecques, la valeur morale suprême est l'harmonie (l’ordre cosmologique). Pour les chrétiens, la valeur suprême s'incarne dans la parole divine. Dans la pensée kantienne, la valeur morale principale est le respect de l'Homme.
 Le respect des autres devient plus important que le respect de dieu, ou de l’ordre naturelle.
 
 > La liberté des uns s’arrête là où commence celle des autres.
